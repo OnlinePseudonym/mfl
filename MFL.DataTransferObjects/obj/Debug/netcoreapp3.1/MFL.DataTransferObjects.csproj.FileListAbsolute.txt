@@ -1,0 +1,9 @@
+C:\dev\personal\mfl-dotnet\MFL\MFL.DataTransferObjects\bin\Debug\netcoreapp3.1\MFL.DataTransferObjects.deps.json
+C:\dev\personal\mfl-dotnet\MFL\MFL.DataTransferObjects\bin\Debug\netcoreapp3.1\MFL.DataTransferObjects.dll
+C:\dev\personal\mfl-dotnet\MFL\MFL.DataTransferObjects\bin\Debug\netcoreapp3.1\MFL.DataTransferObjects.pdb
+C:\dev\personal\mfl-dotnet\MFL\MFL.DataTransferObjects\obj\Debug\netcoreapp3.1\MFL.DataTransferObjects.csprojAssemblyReference.cache
+C:\dev\personal\mfl-dotnet\MFL\MFL.DataTransferObjects\obj\Debug\netcoreapp3.1\MFL.DataTransferObjects.AssemblyInfoInputs.cache
+C:\dev\personal\mfl-dotnet\MFL\MFL.DataTransferObjects\obj\Debug\netcoreapp3.1\MFL.DataTransferObjects.AssemblyInfo.cs
+C:\dev\personal\mfl-dotnet\MFL\MFL.DataTransferObjects\obj\Debug\netcoreapp3.1\MFL.DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\dev\personal\mfl-dotnet\MFL\MFL.DataTransferObjects\obj\Debug\netcoreapp3.1\MFL.DataTransferObjects.dll
+C:\dev\personal\mfl-dotnet\MFL\MFL.DataTransferObjects\obj\Debug\netcoreapp3.1\MFL.DataTransferObjects.pdb

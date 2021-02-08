@@ -1,0 +1,12 @@
+C:\dev\personal\mfl-dotnet\MFL\MFL.Data\obj\Debug\netcoreapp3.1\MFL.Data.AssemblyInfoInputs.cache
+C:\dev\personal\mfl-dotnet\MFL\MFL.Data\obj\Debug\netcoreapp3.1\MFL.Data.AssemblyInfo.cs
+C:\dev\personal\mfl-dotnet\MFL\MFL.Data\obj\Debug\netcoreapp3.1\MFL.Data.csprojAssemblyReference.cache
+C:\dev\personal\mfl-dotnet\MFL\MFL.Data\bin\Debug\netcoreapp3.1\MFL.Data.deps.json
+C:\dev\personal\mfl-dotnet\MFL\MFL.Data\bin\Debug\netcoreapp3.1\MFL.Data.dll
+C:\dev\personal\mfl-dotnet\MFL\MFL.Data\bin\Debug\netcoreapp3.1\MFL.Data.pdb
+C:\dev\personal\mfl-dotnet\MFL\MFL.Data\obj\Debug\netcoreapp3.1\MFL.Data.dll
+C:\dev\personal\mfl-dotnet\MFL\MFL.Data\obj\Debug\netcoreapp3.1\MFL.Data.pdb
+C:\dev\personal\mfl-dotnet\MFL\MFL.Data\obj\Debug\netcoreapp3.1\MFL.Data.csproj.CoreCompileInputs.cache
+C:\dev\personal\mfl-dotnet\MFL\MFL.Data\bin\Debug\netcoreapp3.1\MFL.Data.runtimeconfig.json
+C:\dev\personal\mfl-dotnet\MFL\MFL.Data\bin\Debug\netcoreapp3.1\MFL.Data.runtimeconfig.dev.json
+C:\dev\personal\mfl-dotnet\MFL\MFL.Data\obj\Debug\netcoreapp3.1\MFL.Data.genruntimeconfig.cache

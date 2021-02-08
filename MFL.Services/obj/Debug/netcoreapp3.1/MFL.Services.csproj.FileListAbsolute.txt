@@ -1,0 +1,16 @@
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\bin\Debug\netcoreapp3.1\MFL.Services.deps.json
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\bin\Debug\netcoreapp3.1\MFL.Services.dll
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\bin\Debug\netcoreapp3.1\MFL.Services.pdb
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\bin\Debug\netcoreapp3.1\MFL.Data.dll
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\bin\Debug\netcoreapp3.1\MFL.Data.pdb
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\obj\Debug\netcoreapp3.1\MFL.Services.csprojAssemblyReference.cache
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\obj\Debug\netcoreapp3.1\MFL.Services.AssemblyInfoInputs.cache
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\obj\Debug\netcoreapp3.1\MFL.Services.AssemblyInfo.cs
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\obj\Debug\netcoreapp3.1\MFL.Services.csproj.CopyComplete
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\obj\Debug\netcoreapp3.1\MFL.Services.dll
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\obj\Debug\netcoreapp3.1\MFL.Services.pdb
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\bin\Debug\netcoreapp3.1\MFL.Common.dll
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\bin\Debug\netcoreapp3.1\MFL.Common.pdb
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\bin\Debug\netcoreapp3.1\MFL.DataTransferObjects.dll
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\bin\Debug\netcoreapp3.1\MFL.DataTransferObjects.pdb
+C:\dev\personal\mfl-dotnet\MFL\MFL.Services\obj\Debug\netcoreapp3.1\MFL.Services.csproj.CoreCompileInputs.cache
